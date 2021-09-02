@@ -9,6 +9,7 @@
   "author": "Vlad",
   "license": "MIT",
   "dependencies": {
-    "electron": "^13.2.3"
+    "electron": "^13.2.3",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
